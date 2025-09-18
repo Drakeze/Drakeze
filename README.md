@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**Drakeze/Drakeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# 👋 Hi, I'm Anthony Shead  
+**Full-Stack Developer | Founder of Soren Technology | API Builder | Content Creator**
 
-Here are some ideas to get you started:
+🚀 Currently building **Soren Technology** – modern websites and custom APIs for businesses.  
+🌱 Learning **Polyglot Full-Stack Engineering** through IBM Certification & hands-on projects.  
+💡 Interested in **React, Next.js, APIs, AI-powered development, and startup growth**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Links  
+- 🌍 Portfolio: [sorenlab.com](https://sorenlab.com)  
+- 💻 GitHub (Soren Tech): [Soren-Technology](https://github.com/Soren-Technology/Soren)  
+- 📄 Resume: [View Resume (PDF)](link-to-your-resume)  
+- ☕ Support My Work: [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech)  
+- 💼 LinkedIn: [Anthony Shead](https://www.linkedin.com/in/anthony-shead-3a2a3424b/)  
+
+---
+
+## 🚀 Featured Projects  
+- [**Cryptocurrency Tracker**](https://github.com/Drakeze/cryptocurrency-tracker)  
+  A TypeScript web app to fetch and display live cryptocurrency prices, styled with Tailwind CSS.  
+
+- [**Blog**](https://github.com/Drakeze/Blog)  
+  Practice blog project exploring SEO optimization, Markdown posts, and Next.js structure.  
+
+- [**Notes-Study**](https://github.com/Drakeze/Notes-Study)  
+  A repo documenting my learning journey — code snippets, problem-solving practice, and full-stack study progress.  
+
+- [**Portfolio Website**](https://github.com/Drakeze/portfolio) *(coming soon)*  
+  My personal developer portfolio showcasing client projects, APIs, and custom builds.  
