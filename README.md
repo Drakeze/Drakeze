@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👋 Hi, I'm Anthony Shead  
+# 👋 Hi, I'm Anthony Shead  
 **Full-Stack Developer | Founder of Soren Technology | API Builder | Content Creator**
 
 🚀 Currently building **Soren Technology** – modern websites and custom APIs for businesses.  
@@ -29,4 +29,4 @@
   A repo documenting my learning journey — code snippets, problem-solving practice, and full-stack study progress.  
 
 - [**Portfolio Website**](https://github.com/Drakeze/portfolio) *(coming soon)*  
-  My personal developer portfolio showcasing client projects, APIs, and custom builds.  
+  My personal developer portfolio showcases a range of client projects, APIs, and custom builds.  
