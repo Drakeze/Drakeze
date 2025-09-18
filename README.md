@@ -30,3 +30,5 @@
 
 - [**Portfolio Website**](https://github.com/Drakeze/portfolio) *(coming soon)*  
   My personal developer portfolio showcases a range of client projects, APIs, and custom builds.  
+## 📊 GitHub Stats  
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakeze&show_icons=true&theme=radical)  
