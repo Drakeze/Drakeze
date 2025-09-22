@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 Links  
-- 🌍 Portfolio: [sorenlab.com](https://sorenlab.com)  
+- 🌍 Soren Tech: [sorenlab.com](example.com) *(coming soon)*  
 - 💻 GitHub (Soren Tech): [Soren-Technology](https://github.com/Soren-Technology/Soren)  
 - 📄 Resume: [View Resume (PDF)](link-to-your-resume)  
 - ☕ Support My Work: [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech)  
