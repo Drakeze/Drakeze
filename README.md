@@ -11,8 +11,7 @@
 
 ## 🔗 Links  
 - 🌍 Soren Tech: [sorenlab.com](example.com) *(coming soon)*  
-- 💻 GitHub (Soren Tech): [Soren-Technology](https://github.com/Soren-Technology/Soren)  
-- 📄 Resume: [View Resume (PDF)](link-to-your-resume)  
+- 💻 GitHub (SorenTech): [SorenTech](https://github.com/SorenLab/sorenTech)   
 - ☕ Support My Work: [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech)  
 - 💼 LinkedIn: [Anthony Shead](https://www.linkedin.com/in/anthony-shead-3a2a3424b/)  
 
