@@ -25,7 +25,7 @@
 - [**Blog**](https://github.com/Drakeze/Blog)  
   Practice blog project exploring SEO optimization, Markdown posts, and Next.js structure.  
 
--[**Dashboard**](https://github.com/Drakeze/Dashboard)
+- [**Dashboard**](https://github.com/Drakeze/Dashboard)
 Practice Informational Dashboard testing my connectivity and UI skills
 
 - [**Portfolio Website**](https://github.com/Drakeze/portfolio) *(coming soon)*  
