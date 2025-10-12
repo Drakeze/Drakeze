@@ -11,14 +11,15 @@
 
 ## 🔗 Links  
 - 🌍 Soren Tech: [sorenlab.com](example.com) *(coming soon)*  
-- 💻 GitHub (SorenTech): [SorenTech](https://github.com/SorenLab/sorenTech)   
+- 💻 GitHub (SorenTech): [SorenTech](https://github.com/SorenLab/sorenTech)
+- 🌱 GitHub (EarthPlus): [EarthPlus LLC](https://github.com/EarthPlus-Organization)
 - ☕ Support My Work: [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech)  
 - 💼 LinkedIn: [Anthony Shead](https://www.linkedin.com/in/anthony-shead-3a2a3424b/)  
 
 ---
 
 ## 🚀 Featured Projects  
-- [**Cryptocurrency Tracker**](https://github.com/Drakeze/cryptocurrency-tracker)  
+- [**Cryptocurrency Tracker**](https://github.com/Drakeze/CT-app)  
   A TypeScript web app to fetch and display live cryptocurrency prices, styled with Tailwind CSS.  
 
 - [**Blog**](https://github.com/Drakeze/Blog)  
