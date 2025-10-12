@@ -25,8 +25,8 @@
 - [**Blog**](https://github.com/Drakeze/Blog)  
   Practice blog project exploring SEO optimization, Markdown posts, and Next.js structure.  
 
-- [**Notes-Study**](https://github.com/Drakeze/Notes-Study)  
-  A repo documenting my learning journey — code snippets, problem-solving practice, and full-stack study progress.  
+-[**Dashboard**](https://github.com/Drakeze/Dashboard)
+Practice Informational Dashboard testing my connectivity and UI skills
 
 - [**Portfolio Website**](https://github.com/Drakeze/portfolio) *(coming soon)*  
   My personal developer portfolio showcases a range of client projects, APIs, and custom builds.  
