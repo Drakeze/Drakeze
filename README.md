@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 👋 Hi, I'm Anthony Shead  
-**Full-Stack Developer | Founder of Søren Technology | API Builder | Content Creator**
+**Full-Stack Developer | Founder of Søren Technology | Founder of Earth Plus LLC | API Builder | Content Creator**
 
 💼 Founder of **Søren Technology** — developing modern full-stack websites and in-house APIs under **Earth Plus LLC**.  
 🚀 Currently building projects that combine clean design, scalability, and automation.  
