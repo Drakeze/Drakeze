@@ -1,33 +1,47 @@
 ## Hi there 👋
 
 # 👋 Hi, I'm Anthony Shead  
-**Full-Stack Developer | Founder of Soren Technology | API Builder | Content Creator**
+**Full-Stack Developer | Founder of Søren Technology | API Builder | Content Creator**
 
-🚀 Currently building **Soren Technology** – modern websites and custom APIs for businesses.  
+💼 Founder of **Søren Technology** — developing modern full-stack websites and in-house APIs under **Earth Plus LLC**.  
+🚀 Currently building projects that combine clean design, scalability, and automation.  
 🌱 Learning **Polyglot Full-Stack Engineering** through IBM Certification & hands-on projects.  
-💡 Interested in **React, Next.js, APIs, AI-powered development, and startup growth**.  
+💡 Passionate about **React, Next.js, APIs, AI-powered development, and sustainable tech**.
 
 ---
 
-## 🔗 Links  
-- 🌍 Soren Tech: [sorenlab.com](example.com) *(coming soon)*  
-- 💻 GitHub (SorenTech): [SorenTech](https://github.com/SorenLab/sorenTech)
-- 🌱 GitHub (EarthPlus): [EarthPlus LLC](https://github.com/EarthPlus-Organization)
-- ☕ Support My Work: [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech)  
-- 💼 LinkedIn: [Anthony Shead](https://www.linkedin.com/in/anthony-shead-3a2a3424b/)  
+## 🔗 Links
+- 🌍 **Søren Tech:** [sorenlab.com](https://sorenlab.com) *(coming soon)*  
+- 💻 **GitHub (SørenLab):** [Søren Technology](https://github.com/SorenLab)  
+- 🌱 **GitHub (Earth Plus):** [Earth Plus LLC](https://github.com/EarthPlus-Organization)  
+- ☕ **Support My Work:** [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech)  
+- 💼 **LinkedIn:** [Anthony Shead](https://www.linkedin.com/in/anthony-shead-3a2a3424b/)
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 - [**Cryptocurrency Tracker**](https://github.com/Drakeze/CT-app)  
-  A TypeScript web app to fetch and display live cryptocurrency prices, styled with Tailwind CSS.  
+  TypeScript web app fetching live crypto data, styled with Tailwind CSS.
 
 - [**Blog**](https://github.com/Drakeze/Blog)  
-  Practice blog project exploring SEO optimization, Markdown posts, and Next.js structure.  
+  Practice project exploring SEO, Markdown posts, and Next.js structure.
 
-- [**Dashboard**](https://github.com/Drakeze/Dashboard)
-Practice Informational Dashboard testing my connectivity and UI skills
+- [**Dashboard**](https://github.com/Drakeze/Dashboard)  
+  Informational dashboard testing connectivity, UI structure, and API calls.
 
 - [**Portfolio Website**](https://github.com/Drakeze/portfolio) *(coming soon)*  
-  My personal developer portfolio showcases a range of client projects, APIs, and custom builds.  
+  Personal developer portfolio showcasing client projects and custom builds.
+
+---
+
+## 🧠 Certifications
+![IBM Full-Stack JavaScript Developer](https://img.shields.io/badge/IBM%20Full--Stack%20Developer-blue?style=flat-square&logo=ibm)
+![API First Development](https://img.shields.io/badge/API%20First%20Principles-green?style=flat-square&logo=swagger)
+![Google Cloud Foundations](https://img.shields.io/badge/Google%20Cloud-orange?style=flat-square&logo=googlecloud)
+![Coursera Certified](https://img.shields.io/badge/Coursera-Learner-blue?style=flat-square&logo=coursera)
+
+---
+
+> “Innovation thrives where creativity meets sustainability.”
+
 
