@@ -29,7 +29,7 @@
 - [**Dashboard**](https://github.com/Drakeze/Dashboard)  
   Informational dashboard testing connectivity, UI structure, and API calls.
 
-- [**Portfolio Website**](https://github.com/Drakeze/portfolio) *(coming soon)*  
+- [**Portfolio Website**](https://portfolio-three-amber-61.vercel.app/) 
   Personal developer portfolio showcasing client projects and custom builds.
 
 ---
