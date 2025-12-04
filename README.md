@@ -14,7 +14,7 @@
 - 🌍 **Søren Tech:** [sorenlab.com](https://sorenlab.com) *(coming soon)*  
 - 💻 **GitHub (SørenLab):** [Søren Technology](https://github.com/SorenLab)  
 - 🌱 **GitHub (Earth Plus):** [Earth Plus LLC](https://github.com/EarthPlus-Organization)  
-- ☕ **Support My Work:** [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech) *(work in progress)*
+- ☕ **Support My Work:** [Patreon](https://www.patreon.com/cw/SorenTech) | [Ko-fi](https://ko-fi.com/sorentech) *( Ko-Fi is a work in progress)*
 - 💼 **LinkedIn:** [Anthony Shead](https://www.linkedin.com/in/anthony-shead-3a2a3424b/)
 
 ---
