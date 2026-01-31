@@ -28,7 +28,7 @@ These organizations represent the long-term direction of my work more than any s
 
 My portfolio acts as a [**central hub**](https://drakeze-portfolio.vercel.app/) for my projects and ongoing work.
 
-It is designed to clearly present:
+It is designed to present clearly:
 - Real, deployed applications  
 - Ongoing and planned projects  
 - Clear documentation and intent  
@@ -89,7 +89,7 @@ It exists to share:
 - Behind-the-scenes work  
 - Ongoing growth as an engineer  
 
-The focus is on learning, iteration, and consistency—not promotion.
+The focus is on learning, iteration, and consistency, not promotion.
 
 ---
 
