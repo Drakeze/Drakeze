@@ -2,7 +2,7 @@
 
 I’m a full-stack developer focused on building clean, maintainable systems and documenting my growth as an engineer.
 
-My work centers around modern web applications, API integration, and long-term project design. I treat development as an evolving process—not just a collection of finished demos.
+My work centers around modern web applications, API integration, and long-term project design. I treat development as an evolving process, not just a collection of finished demos.
 
 ---
 
