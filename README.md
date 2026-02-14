@@ -6,7 +6,7 @@ My work centers around modern web applications, API integration, and long-term p
 
 ---
 
-## 🎯 Where to Start
+##  Where to Start
 
 If you’re visiting this profile, the best place to start is my **Portfolio** and **Organizations**.
 
@@ -24,7 +24,7 @@ These organizations represent the long-term direction of my work more than any s
 
 ---
 
-## 💼 Portfolio
+##  Portfolio
 
 My portfolio acts as a [**central hub**](https://drakeze-portfolio.vercel.app/) for my projects and ongoing work.
 
@@ -42,7 +42,7 @@ From the portfolio, you can explore:
 
 ---
 
-## 🧠 How I Approach Development
+##  How I Approach Development
 
 - I prioritize **structure and clarity** over rushing features  
 - I document intent, not just outcomes  
@@ -53,7 +53,7 @@ Some repositories are intentionally minimal to reflect planning stages rather th
 
 ---
 
-## 📚 Learning & Growth
+##  Learning & Growth
 
 I actively document what I’m learning through a dedicated **Growth Vault**.
 
@@ -93,7 +93,7 @@ The focus is on learning, iteration, and consistency, not promotion.
 
 ---
 
-## 📌 Final Note
+##  Final Note
 
 This profile is intentionally curated to guide visitors toward the most relevant work first.
 
