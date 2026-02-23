@@ -26,7 +26,7 @@ These organizations represent the long-term direction of my work more than any s
 
 ##  Portfolio
 
-My portfolio acts as a [**central hub**](https://portfolio-git-fix-admin-sorenlab-projects.vercel.app/) for my projects and ongoing work.
+My portfolio acts as a [**central hub**](https://drakeze-portfolio-website.vercel.app/) for my projects and ongoing work.
 
 It is designed to present clearly:
 - Real, deployed applications  
