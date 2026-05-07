@@ -14,7 +14,7 @@ If you’re visiting this profile, the best place to start is my **Portfolio** a
 
 - **SorenTech**  
   A technology-focused organization exploring modern full-stack development, internal tooling, and scalable application design.  
-  🔗 [Soren Tech](https://github.com/SorenLab)
+  🔗 [Soren Lab](https://github.com/SorenLab)
 
 - **Earth Plus**  
   A sustainability-driven initiative connecting technology, structure, and long-term impact.  
