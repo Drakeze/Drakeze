@@ -80,7 +80,7 @@ These certifications support my learning, but my primary focus remains applied, 
 
 ## 🤝 Community & Journey
 
-I maintain a [**Patreon**](https://patreon.com/SorenTech?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_fan&utm_content=copyLink) that documents my development journey.
+I maintain a [**Patreon**](https://patreon.com/Drakeze) that documents my development journey.
 
 It is not tied to a single company or product.  
 It exists to share:
